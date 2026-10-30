@@ -1,0 +1,18 @@
+[
+  {
+    "Check": "research health",
+    "Result": "ResearchDesk"
+  },
+  {
+    "Check": "prompt health",
+    "Result": "PromptLab"
+  },
+  {
+    "Check": "agent health",
+    "Result": "AgentHub"
+  },
+  {
+    "Check": "Cross-origin mutation",
+    "Result": "403 rejected"
+  }
+]
