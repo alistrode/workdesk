@@ -1,8 +1,8 @@
 ﻿Product: WorkDesk
-Version: 1.1.0
+Version: 1.2.0
 Build date: 2026-10-31
 Target framework: .NET 10.0
 Bundled runtime: .NET 10.0.12
 Architecture: Windows x64
-Startup: Start.cmd / launcher\WorkDeskLauncher.exe
-Changes: 模块路径改为自动发现（同级目录/环境变量/配置文件），新增 WORKDESK_PORT
+Startup: Start.cmd
+Changes: 模块路径自动发现 + Start.cmd；MODELS.md 更正为不绑定具体模型
